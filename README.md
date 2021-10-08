@@ -1,1 +1,2 @@
 # Calculator
+Example of calculator
